@@ -1,0 +1,4 @@
+cordova requirements
+cordova run electron
+cordova run browser
+cordova run android
